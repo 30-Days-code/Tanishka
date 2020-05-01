@@ -60,7 +60,12 @@ class clothing
       cout<<"type="<<type<<endl;
 
     }  
-  };
+  
+  ~clothing()
+   {
+    cout<<"Thankyou for shopping";
+   } 
+ };
 
 int main() 
 {
