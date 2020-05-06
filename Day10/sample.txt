@@ -1,0 +1,8 @@
+This is a very simple file which will be used for learning file handling. File handling is a tricky topic and was never taught by my teacher. 
+However, I am trying to study this from some random links and videos as usual.
+
+File handling as we say, has various file opening modes. ios::in mode helps us to read, ios::out helps us to write files, ios::trunc helps us
+to create a file and over write the contents whereas ios::app mode helps us to create a file if it does not exist and add our new content at
+the end of the file or where we wish to, by making the pointer point at a particular point.
+
+So I hope this tutorial is enough for today. I will come back to you with freshly brewed content soon. 
